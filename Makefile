@@ -13,6 +13,7 @@ PutHTML:
 	cp e.jpeg /var/www/html/index/
 	cp f.jpg /var/www/html/index/
 	cp IMG_0479.JPG /var/www/html/index/
+	cp experience.html /var/www/html/index/
 
 
 
