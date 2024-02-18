@@ -1,0 +1,8 @@
+
+all: PutHTML
+
+PutHTML:
+	cp index.html /var/www/html/main
+
+	echo "Current contents of your HTML directory: "
+	ls -l /var/www/html/multiplydivide/
