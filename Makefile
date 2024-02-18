@@ -6,6 +6,8 @@ PutHTML:
 	cp Pictures.html /var/www/html/index/
 	cp contact.html /var/www/html/index/
 	cp styles.css /var/www/html/index/
+	cp a.css /var/www/html/index/
+
 
 
 
