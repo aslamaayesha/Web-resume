@@ -8,8 +8,6 @@ PutHTML:
 	cp styles.css /var/www/html/index/
 	cp a.jpg /var/www/html/index/
 	cp b.jpg /var/www/html/index/
-        cp c.jpg /var/www/html/index/
-
 
 
 
