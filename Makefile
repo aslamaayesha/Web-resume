@@ -9,6 +9,7 @@ PutHTML:
 	cp a.jpg /var/www/html/index/
 	cp b.jpg /var/www/html/index/
 	cp c.jpg /var/www/html/index/
+	cp d.jpg /var/www/html/index/
 
 
 
