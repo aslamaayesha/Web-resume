@@ -11,6 +11,7 @@ PutHTML:
 	cp c.jpg /var/www/html/index/
 	cp d.jpg /var/www/html/index/
 	cp e.jpeg /var/www/html/index/
+	cp f.jpeg /var/www/html/index/
 
 
 
